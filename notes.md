@@ -14,21 +14,31 @@
 
 ## Technical Tasks
 
-### Project Setup
-    [ ] index.html
-    [ ] stylesheet
-    [ ] jquery
-    [ ] javascript.js
-    [ ] doc.ready
-### HTML mockup
-### Add a product to my inventory
+[x] Project Setup
+
+    [x] index.html
+    [x] stylesheet
+    [x] jquery
+    [x] javascript.js
+    [x] doc.ready
+
+[x] Wireframe (paint)
+
+[x] HTML mockup
+
+[ ] Add a product to my inventory
+
     [ ] form w/ product name, color size & price
     [ ] add button & click event handler
     [ ] render the new item to the DOM
-### Delete task
+
+[ ] Delete task
+
     [ ] Delete button & click event handler
     [ ] Remove item from DOM
-### Basic styling
+
+[ ] Basic styling
+
     [ ] make it look not awful
 
 
