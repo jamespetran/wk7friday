@@ -28,8 +28,10 @@
 
 [ ] Add a product to my inventory
 
-    [ ] form w/ product name, color size & price
-    [ ] add button & click event handler
+    [x] form w/ product name, color size & price
+    [x] add button & click event handler
+    [ ] grab data from <inputs> and save as an object
+    [ ] save products to global inventory
     [ ] render the new item to the DOM
 
 [ ] Delete task
